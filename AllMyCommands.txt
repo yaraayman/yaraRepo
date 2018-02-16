@@ -5,6 +5,3 @@ git add File3.txt
 git rm File2.txt
 git add .
 rm .git/index.lock
-git checkout ReadMe
-git checkout
-git add ReadMe.md
